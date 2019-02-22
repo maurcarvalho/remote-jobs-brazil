@@ -42,6 +42,7 @@ Grubster | https://www.grubster.com.br/
 GrupoCITEC | https://grupocitec.com/
 Gupy | http://gupy.io/
 High Stakes Academy | http://www.hsacademy.com.br/
+Husky | https://www.husky.io/
 iBLISS | http://www.ibliss.com.br/
 Ignus Digital (HE:labs) | https://ignusdigital.recruitee.com/
 Impulso (HE:labs) | https://impulso.network/
